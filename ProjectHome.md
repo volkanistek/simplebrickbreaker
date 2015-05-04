@@ -1,0 +1,1 @@
+A simple brick breaker game made for a class in Java.
